@@ -22,6 +22,7 @@ CraxsRat v5
 
 ![cv2](https://github.com/zorlars/CraxsRatV5/assets/43446796/da373b88-de63-4df0-b194-d289778c6744)
 
+https://github.com/zorlars/CraxsRatV5/assets/43446796/d732d989-4b82-4a3c-89a7-2e671b011538
 
 ## Features
 𝗙𝗶𝗹𝗲 𝗠𝗮𝗻𝗮𝗴𝗲𝗿
